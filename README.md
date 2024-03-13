@@ -10,4 +10,4 @@ Passionate about technology, I enjoy dedicating my free time to researching and 
 
 ## GitHub Stats 📈
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sepho&theme=rising-sun&border_radius=16)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sepho&theme=horizon&border_radius=16)](https://git.io/streak-stats)
