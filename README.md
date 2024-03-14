@@ -1,6 +1,6 @@
 # Hello world 👋
 
-I am software engineer focused on mobile (iOS & Android) development for more than 10 years.
+I am software engineer focused on mobile (iOS & Android) development for more than 10 years, based in Madrid (Spain).
 
 ## Full-stack iOS & Android engineer
 
