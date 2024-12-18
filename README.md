@@ -4,9 +4,9 @@ Software engineer focused on mobile (iOS & Android) development for more than 10
 
 ## Full-stack iOS & Android engineer
 
-Become iOS developer in 2011, using Objective-C. In 2014, I switched to Swift, the language I've been working with since then, to develop cross-platform applications (iOS, iPadOS, tvOS, watchOS, macOS & visionOS), as well as backend applications (using the Vapor framework), and to build user interfaces with SwiftUI. In 2012, I made my first Android application with Java, transitioning to Kotlin in 2017. Currently, I develop applications with Kotlin and Jetpack Compose.
+Become an iOS developer in 2011, using Objective-C. In 2014, I switched to Swift, the language I've been working with since then to develop cross-platform applications (iOS, iPadOS, tvOS, watchOS, macOS, and visionOS), as well as backend applications using [Vapor](https://github.com/vapor/vapor) framework. In 2012, I created my first Android application with Java, transitioning to Kotlin in 2017. Currently developing native Android applications with Kotlin and Jetpack Compose, and SwiftUI for Apple ecosystem development.
 
-Passionate about technology, I enjoy dedicating my free time to researching and continuing to learn to stay up-to-date with the latest developments in languages and key frameworks.
+Passionate about technology, I dedicate my free time to researching and learning to stay up-to-date with the latest APIs and key frameworks.
 
 ## GitHub Stats 📈
 
